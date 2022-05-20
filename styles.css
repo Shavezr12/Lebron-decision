@@ -1,0 +1,50 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Libre Franklin', sans-serif;
+
+}
+
+.title {
+    font-size: 50px;
+    background-color: #FFF3CF;
+    font-weight: 800;
+    padding: 10px 20px;
+    font-family: 'Playfair Display', serif;
+    border: 5px solid black;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 15px 15px;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.tempBorder {
+    border: 2px solid black;
+    margin: 10px 5px;
+}
